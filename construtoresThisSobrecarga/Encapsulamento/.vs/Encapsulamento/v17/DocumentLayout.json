@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Encapsulamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB11A14-A055-4866-9BD6-5BBB21DC7F5D}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\construtoresthissobrecarga\\encapsulamento\\encapsulamento\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB11A14-A055-4866-9BD6-5BBB21DC7F5D}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB11A14-A055-4866-9BD6-5BBB21DC7F5D}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\construtoresthissobrecarga\\encapsulamento\\encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB11A14-A055-4866-9BD6-5BBB21DC7F5D}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Encapsulamento\\Encapsulamento\\Produto.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Produto.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Encapsulamento\\Encapsulamento\\Produto.cs",
+              "RelativeToolTip": "Encapsulamento\\Produto.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:44:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Encapsulamento\\Encapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Encapsulamento\\Encapsulamento\\Program.cs",
+              "RelativeToolTip": "Encapsulamento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:27:40.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

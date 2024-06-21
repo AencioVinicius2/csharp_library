@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\refint\MembrosEstaticos.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\ref\MembrosEstaticos.dll

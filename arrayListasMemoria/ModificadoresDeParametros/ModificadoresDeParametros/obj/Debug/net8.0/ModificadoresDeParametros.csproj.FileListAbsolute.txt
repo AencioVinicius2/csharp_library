@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\net8.0\ModificadoresDeParametros.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\net8.0\ModificadoresDeParametros.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\net8.0\ModificadoresDeParametros.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\net8.0\ModificadoresDeParametros.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\net8.0\ModificadoresDeParametros.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net8.0\ModificadoresDeParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net8.0\ModificadoresDeParametros.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net8.0\ModificadoresDeParametros.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net8.0\ModificadoresDeParametros.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net8.0\ModificadoresDeParametros.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net8.0\refint\ModificadoresDeParametros.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net8.0\ModificadoresDeParametros.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net8.0\ModificadoresDeParametros.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net8.0\ref\ModificadoresDeParametros.dll

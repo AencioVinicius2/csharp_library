@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PropriedadesEOperacoesTimeSpan/1.0.0": {
+        "runtime": {
+          "PropriedadesEOperacoesTimeSpan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PropriedadesEOperacoesTimeSpan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

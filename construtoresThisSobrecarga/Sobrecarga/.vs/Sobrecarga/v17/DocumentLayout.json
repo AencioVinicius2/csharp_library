@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Sobrecarga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30663F51-4BC0-4AFC-BE0C-53B056D68FBD}|Sobrecarga\\Sobrecarga.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\construtoresthissobrecarga\\sobrecarga\\sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30663F51-4BC0-4AFC-BE0C-53B056D68FBD}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30663F51-4BC0-4AFC-BE0C-53B056D68FBD}|Sobrecarga\\Sobrecarga.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\construtoresthissobrecarga\\sobrecarga\\sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30663F51-4BC0-4AFC-BE0C-53B056D68FBD}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Sobrecarga\\Sobrecarga\\Produto.cs",
+              "RelativeDocumentMoniker": "Sobrecarga\\Produto.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Sobrecarga\\Sobrecarga\\Produto.cs",
+              "RelativeToolTip": "Sobrecarga\\Produto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:02:57.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Sobrecarga\\Sobrecarga\\Program.cs",
+              "RelativeDocumentMoniker": "Sobrecarga\\Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Sobrecarga\\Sobrecarga\\Program.cs",
+              "RelativeToolTip": "Sobrecarga\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:00:25.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

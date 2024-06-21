@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\bin\Debug\net8.0\DateTime.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\bin\Debug\net8.0\DateTime.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\bin\Debug\net8.0\DateTime.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\bin\Debug\net8.0\DateTime.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\bin\Debug\net8.0\DateTime.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\obj\Debug\net8.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\obj\Debug\net8.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\obj\Debug\net8.0\DateTime.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\obj\Debug\net8.0\refint\DateTime.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\obj\Debug\net8.0\DateTime.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\obj\Debug\net8.0\DateTime.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\DateTime\DateTime\obj\Debug\net8.0\ref\DateTime.dll

@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\bin\Debug\net8.0\ExerciciosDeFixação.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\bin\Debug\net8.0\ExerciciosDeFixação.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\bin\Debug\net8.0\ExerciciosDeFixação.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\bin\Debug\net8.0\ExerciciosDeFixação.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\bin\Debug\net8.0\ExerciciosDeFixação.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\obj\Debug\net8.0\ExerciciosDeFixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\obj\Debug\net8.0\ExerciciosDeFixação.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\obj\Debug\net8.0\ExerciciosDeFixação.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\obj\Debug\net8.0\ExerciciosDeFixação.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\obj\Debug\net8.0\ExerciciosDeFixação.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\obj\Debug\net8.0\refint\ExerciciosDeFixação.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\obj\Debug\net8.0\ExerciciosDeFixação.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\obj\Debug\net8.0\ExerciciosDeFixação.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExerciciosDeFixação\ExerciciosDeFixação\obj\Debug\net8.0\ref\ExerciciosDeFixação.dll

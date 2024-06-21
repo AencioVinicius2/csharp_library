@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\bin\Debug\net8.0\Listas2.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\bin\Debug\net8.0\Listas2.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\bin\Debug\net8.0\Listas2.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\bin\Debug\net8.0\Listas2.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\bin\Debug\net8.0\Listas2.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\obj\Debug\net8.0\Listas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\obj\Debug\net8.0\Listas2.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\obj\Debug\net8.0\Listas2.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\obj\Debug\net8.0\Listas2.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\obj\Debug\net8.0\Listas2.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\obj\Debug\net8.0\refint\Listas2.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\obj\Debug\net8.0\Listas2.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\obj\Debug\net8.0\Listas2.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\Listas2\Listas2\obj\Debug\net8.0\ref\Listas2.dll

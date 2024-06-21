@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\bin\Debug\net8.0\MatrizesExercicios.exe
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\bin\Debug\net8.0\MatrizesExercicios.deps.json
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\bin\Debug\net8.0\MatrizesExercicios.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\bin\Debug\net8.0\MatrizesExercicios.dll
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\bin\Debug\net8.0\MatrizesExercicios.pdb
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\obj\Debug\net8.0\MatrizesExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\obj\Debug\net8.0\MatrizesExercicios.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\obj\Debug\net8.0\MatrizesExercicios.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\obj\Debug\net8.0\MatrizesExercicios.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\obj\Debug\net8.0\MatrizesExercicios.dll
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\obj\Debug\net8.0\refint\MatrizesExercicios.dll
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\obj\Debug\net8.0\MatrizesExercicios.pdb
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\obj\Debug\net8.0\MatrizesExercicios.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MatrizesExercicios\MatrizesExercicios\obj\Debug\net8.0\ref\MatrizesExercicios.dll

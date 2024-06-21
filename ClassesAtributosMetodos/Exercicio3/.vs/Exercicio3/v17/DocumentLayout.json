@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Classes, atributos, metodos\\Exercicio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C296B4-38EB-4556-BFFB-A1C95199BC5E}|Exercicio3\\Exercicio3.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\classes, atributos, metodos\\exercicio3\\exercicio3\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C296B4-38EB-4556-BFFB-A1C95199BC5E}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C296B4-38EB-4556-BFFB-A1C95199BC5E}|Exercicio3\\Exercicio3.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\classes, atributos, metodos\\exercicio3\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C296B4-38EB-4556-BFFB-A1C95199BC5E}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Classes, atributos, metodos\\Exercicio3\\Exercicio3\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\ConversorDeMoeda.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Classes, atributos, metodos\\Exercicio3\\Exercicio3\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "Exercicio3\\ConversorDeMoeda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:10:06.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Classes, atributos, metodos\\Exercicio3\\Exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Classes, atributos, metodos\\Exercicio3\\Exercicio3\\Program.cs",
+              "RelativeToolTip": "Exercicio3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:42:25.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

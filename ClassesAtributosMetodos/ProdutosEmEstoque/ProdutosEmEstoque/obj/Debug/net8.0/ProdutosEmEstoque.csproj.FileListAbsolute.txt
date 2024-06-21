@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\net8.0\ProdutosEmEstoque.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\net8.0\ProdutosEmEstoque.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\net8.0\ProdutosEmEstoque.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\net8.0\ProdutosEmEstoque.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\net8.0\ProdutosEmEstoque.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net8.0\ProdutosEmEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net8.0\ProdutosEmEstoque.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net8.0\ProdutosEmEstoque.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net8.0\ProdutosEmEstoque.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net8.0\ProdutosEmEstoque.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net8.0\refint\ProdutosEmEstoque.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net8.0\ProdutosEmEstoque.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net8.0\ProdutosEmEstoque.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\Classes, atributos, metodos\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net8.0\ref\ProdutosEmEstoque.dll

@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\obj\Debug\net8.0\refint\TimeSpan.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\TimeSpan\TimeSpan\obj\Debug\net8.0\ref\TimeSpan.dll

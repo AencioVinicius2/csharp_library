@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MatrizesExercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{592936A7-B575-4E21-950B-EFD0A8F1658D}|MatrizesExercicios\\MatrizesExercicios.csproj|c:\\users\\aenpv\\onedrive\\documentos\\apic#\\matrizesexercicios\\matrizesexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592936A7-B575-4E21-950B-EFD0A8F1658D}|MatrizesExercicios\\MatrizesExercicios.csproj|solutionrelative:matrizesexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MatrizesExercicios\\MatrizesExercicios\\Program.cs",
+              "RelativeDocumentMoniker": "MatrizesExercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MatrizesExercicios\\MatrizesExercicios\\Program.cs",
+              "RelativeToolTip": "MatrizesExercicios\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:27:36.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

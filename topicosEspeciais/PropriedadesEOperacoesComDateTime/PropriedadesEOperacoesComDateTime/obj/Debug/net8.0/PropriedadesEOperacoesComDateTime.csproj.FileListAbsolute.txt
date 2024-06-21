@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\bin\Debug\net8.0\PropriedadesEOperacoesComDateTime.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\bin\Debug\net8.0\PropriedadesEOperacoesComDateTime.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\bin\Debug\net8.0\PropriedadesEOperacoesComDateTime.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\bin\Debug\net8.0\PropriedadesEOperacoesComDateTime.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\bin\Debug\net8.0\PropriedadesEOperacoesComDateTime.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\net8.0\PropriedadesEOperacoesComDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\net8.0\PropriedadesEOperacoesComDateTime.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\net8.0\PropriedadesEOperacoesComDateTime.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\net8.0\PropriedadesEOperacoesComDateTime.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\net8.0\PropriedadesEOperacoesComDateTime.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\net8.0\refint\PropriedadesEOperacoesComDateTime.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\net8.0\PropriedadesEOperacoesComDateTime.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\net8.0\PropriedadesEOperacoesComDateTime.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\net8.0\ref\PropriedadesEOperacoesComDateTime.dll

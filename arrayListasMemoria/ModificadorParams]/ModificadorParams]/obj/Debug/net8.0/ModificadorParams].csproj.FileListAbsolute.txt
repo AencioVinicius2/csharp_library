@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\bin\Debug\net8.0\ModificadorParams].exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\bin\Debug\net8.0\ModificadorParams].deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\bin\Debug\net8.0\ModificadorParams].runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\bin\Debug\net8.0\ModificadorParams].dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\bin\Debug\net8.0\ModificadorParams].pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\obj\Debug\net8.0\ModificadorParams].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\obj\Debug\net8.0\ModificadorParams].AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\obj\Debug\net8.0\ModificadorParams].AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\obj\Debug\net8.0\ModificadorParams].csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\obj\Debug\net8.0\ModificadorParams].dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\obj\Debug\net8.0\refint\ModificadorParams].dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\obj\Debug\net8.0\ModificadorParams].pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\obj\Debug\net8.0\ModificadorParams].genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ModificadorParams]\ModificadorParams]\obj\Debug\net8.0\ref\ModificadorParams].dll

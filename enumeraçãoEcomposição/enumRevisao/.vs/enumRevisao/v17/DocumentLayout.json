@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\enumRevisao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66EF93-4E1D-4370-AA82-79BFF8E1BD0B}|enumRevisao\\enumRevisao.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\enumera\u00E7\u00E3oecomposi\u00E7\u00E3o\\enumrevisao\\enumrevisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D66EF93-4E1D-4370-AA82-79BFF8E1BD0B}|enumRevisao\\enumRevisao.csproj|solutionrelative:enumrevisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66EF93-4E1D-4370-AA82-79BFF8E1BD0B}|enumRevisao\\enumRevisao.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\enumera\u00E7\u00E3oecomposi\u00E7\u00E3o\\enumrevisao\\enumrevisao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D66EF93-4E1D-4370-AA82-79BFF8E1BD0B}|enumRevisao\\enumRevisao.csproj|solutionrelative:enumrevisao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D66EF93-4E1D-4370-AA82-79BFF8E1BD0B}|enumRevisao\\enumRevisao.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\enumera\u00E7\u00E3oecomposi\u00E7\u00E3o\\enumrevisao\\enumrevisao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D66EF93-4E1D-4370-AA82-79BFF8E1BD0B}|enumRevisao\\enumRevisao.csproj|solutionrelative:enumrevisao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "order.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\enumRevisao\\enumRevisao\\Entities\\order.cs",
+              "RelativeDocumentMoniker": "enumRevisao\\Entities\\order.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\enumRevisao\\enumRevisao\\Entities\\order.cs",
+              "RelativeToolTip": "enumRevisao\\Entities\\order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:37:51.553Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\enumRevisao\\enumRevisao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "enumRevisao\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\enumRevisao\\enumRevisao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "enumRevisao\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:45:09.522Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\enumRevisao\\enumRevisao\\Program.cs",
+              "RelativeDocumentMoniker": "enumRevisao\\Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\enumRevisao\\enumRevisao\\Program.cs",
+              "RelativeToolTip": "enumRevisao\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:21:25.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

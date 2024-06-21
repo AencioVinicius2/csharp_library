@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\bin\Debug\net8.0\LaçoForEach.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\bin\Debug\net8.0\LaçoForEach.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\bin\Debug\net8.0\LaçoForEach.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\bin\Debug\net8.0\LaçoForEach.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\bin\Debug\net8.0\LaçoForEach.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\obj\Debug\net8.0\LaçoForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\obj\Debug\net8.0\LaçoForEach.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\obj\Debug\net8.0\LaçoForEach.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\obj\Debug\net8.0\LaçoForEach.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\obj\Debug\net8.0\LaçoForEach.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\obj\Debug\net8.0\refint\LaçoForEach.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\obj\Debug\net8.0\LaçoForEach.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\obj\Debug\net8.0\LaçoForEach.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\LaçoForEach\LaçoForEach\obj\Debug\net8.0\ref\LaçoForEach.dll

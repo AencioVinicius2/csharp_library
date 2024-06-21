@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\bin\Debug\net8.0\PropriedadesEOperacoesTimeSpan.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\bin\Debug\net8.0\PropriedadesEOperacoesTimeSpan.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\bin\Debug\net8.0\PropriedadesEOperacoesTimeSpan.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\bin\Debug\net8.0\PropriedadesEOperacoesTimeSpan.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\bin\Debug\net8.0\PropriedadesEOperacoesTimeSpan.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\obj\Debug\net8.0\PropriedadesEOperacoesTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\obj\Debug\net8.0\PropriedadesEOperacoesTimeSpan.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\obj\Debug\net8.0\PropriedadesEOperacoesTimeSpan.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\obj\Debug\net8.0\PropriedadesEOperacoesTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\obj\Debug\net8.0\PropriedadesEOperacoesTimeSpan.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\obj\Debug\net8.0\refint\PropriedadesEOperacoesTimeSpan.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\obj\Debug\net8.0\PropriedadesEOperacoesTimeSpan.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\obj\Debug\net8.0\PropriedadesEOperacoesTimeSpan.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\topicosEspeciais\PropriedadesEOperacoesTimeSpan\PropriedadesEOperacoesTimeSpan\obj\Debug\net8.0\ref\PropriedadesEOperacoesTimeSpan.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MatrizesExercicios/1.0.0": {
+        "runtime": {
+          "MatrizesExercicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatrizesExercicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

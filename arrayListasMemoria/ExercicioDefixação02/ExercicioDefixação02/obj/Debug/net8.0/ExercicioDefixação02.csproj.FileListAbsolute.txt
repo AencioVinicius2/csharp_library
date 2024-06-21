@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\bin\Debug\net8.0\ExercicioDefixação02.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\bin\Debug\net8.0\ExercicioDefixação02.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\bin\Debug\net8.0\ExercicioDefixação02.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\bin\Debug\net8.0\ExercicioDefixação02.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\bin\Debug\net8.0\ExercicioDefixação02.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\obj\Debug\net8.0\ExercicioDefixação02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\obj\Debug\net8.0\ExercicioDefixação02.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\obj\Debug\net8.0\ExercicioDefixação02.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\obj\Debug\net8.0\ExercicioDefixação02.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\obj\Debug\net8.0\ExercicioDefixação02.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\obj\Debug\net8.0\refint\ExercicioDefixação02.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\obj\Debug\net8.0\ExercicioDefixação02.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\obj\Debug\net8.0\ExercicioDefixação02.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arrayListasMemoria\ExercicioDefixação02\ExercicioDefixação02\obj\Debug\net8.0\ref\ExercicioDefixação02.dll

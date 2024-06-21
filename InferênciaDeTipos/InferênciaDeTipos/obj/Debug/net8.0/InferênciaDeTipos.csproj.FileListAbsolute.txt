@@ -1,0 +1,14 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\bin\Debug\net8.0\InferênciaDeTipos.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\bin\Debug\net8.0\InferênciaDeTipos.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\bin\Debug\net8.0\InferênciaDeTipos.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\bin\Debug\net8.0\InferênciaDeTipos.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\bin\Debug\net8.0\InferênciaDeTipos.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\obj\Debug\net8.0\InferênciaDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\obj\Debug\net8.0\InferênciaDeTipos.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\obj\Debug\net8.0\InferênciaDeTipos.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\obj\Debug\net8.0\InferênciaDeTipos.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\obj\Debug\net8.0\InferênciaDeTipos.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\obj\Debug\net8.0\refint\InferênciaDeTipos.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\obj\Debug\net8.0\InferênciaDeTipos.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\obj\Debug\net8.0\InferênciaDeTipos.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\InferênciaDeTipos\InferênciaDeTipos\obj\Debug\net8.0\ref\InferênciaDeTipos.dll

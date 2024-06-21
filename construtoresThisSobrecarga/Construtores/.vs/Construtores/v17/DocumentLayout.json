@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Construtores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5F8494-F570-467A-958D-8892C52BF7EC}|Construtores\\Construtores.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\construtoresthissobrecarga\\construtores\\construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5F8494-F570-467A-958D-8892C52BF7EC}|Construtores\\Construtores.csproj|solutionrelative:construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5F8494-F570-467A-958D-8892C52BF7EC}|Construtores\\Construtores.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\construtoresthissobrecarga\\construtores\\construtores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5F8494-F570-467A-958D-8892C52BF7EC}|Construtores\\Construtores.csproj|solutionrelative:construtores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Construtores\\Construtores\\Produto.cs",
+              "RelativeDocumentMoniker": "Construtores\\Produto.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Construtores\\Construtores\\Produto.cs",
+              "RelativeToolTip": "Construtores\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:59:55.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Construtores\\Construtores\\Program.cs",
+              "RelativeDocumentMoniker": "Construtores\\Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\construtoresThisSobrecarga\\Construtores\\Construtores\\Program.cs",
+              "RelativeToolTip": "Construtores\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:49:05.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
