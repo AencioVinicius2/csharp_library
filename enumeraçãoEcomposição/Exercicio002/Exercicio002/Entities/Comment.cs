@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Course.Entities
 {
@@ -15,5 +16,7 @@ namespace Course.Entities
         {
             Text = text;
         }
+
+
     }
 }
