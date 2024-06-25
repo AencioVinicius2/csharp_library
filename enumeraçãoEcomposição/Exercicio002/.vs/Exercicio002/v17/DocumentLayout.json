@@ -1,71 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\Exercicio002\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{07243102-0D40-4609-931C-5E09EA6AA0FB}|Exercicio002\\Exercicio002.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\enumera\u00E7\u00E3oecomposi\u00E7\u00E3o\\exercicio002\\exercicio002\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07243102-0D40-4609-931C-5E09EA6AA0FB}|Exercicio002\\Exercicio002.csproj|solutionrelative:exercicio002\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07243102-0D40-4609-931C-5E09EA6AA0FB}|Exercicio002\\Exercicio002.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\enumera\u00E7\u00E3oecomposi\u00E7\u00E3o\\exercicio002\\exercicio002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07243102-0D40-4609-931C-5E09EA6AA0FB}|Exercicio002\\Exercicio002.csproj|solutionrelative:exercicio002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07243102-0D40-4609-931C-5E09EA6AA0FB}|Exercicio002\\Exercicio002.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\enumera\u00E7\u00E3oecomposi\u00E7\u00E3o\\exercicio002\\exercicio002\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07243102-0D40-4609-931C-5E09EA6AA0FB}|Exercicio002\\Exercicio002.csproj|solutionrelative:exercicio002\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\Exercicio002\\Exercicio002\\Entities\\Post.cs",
-              "RelativeDocumentMoniker": "Exercicio002\\Entities\\Post.cs",
-              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\Exercicio002\\Exercicio002\\Entities\\Post.cs",
-              "RelativeToolTip": "Exercicio002\\Entities\\Post.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAA3wDIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T17:55:22.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\Exercicio002\\Exercicio002\\Entities\\Comment.cs",
-              "RelativeDocumentMoniker": "Exercicio002\\Entities\\Comment.cs",
-              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\Exercicio002\\Exercicio002\\Entities\\Comment.cs",
-              "RelativeToolTip": "Exercicio002\\Entities\\Comment.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T17:54:31.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\Exercicio002\\Exercicio002\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio002\\Program.cs",
-              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\enumera\u00E7\u00E3oEcomposi\u00E7\u00E3o\\Exercicio002\\Exercicio002\\Program.cs",
-              "RelativeToolTip": "Exercicio002\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T17:23:17.86Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

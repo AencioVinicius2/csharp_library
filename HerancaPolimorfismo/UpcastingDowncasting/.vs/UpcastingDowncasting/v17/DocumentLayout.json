@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\UpcastingDowncasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A87BBF60-FBA9-4861-AB2A-FDD737CDF661}|UpcastingDowncasting\\UpcastingDowncasting.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\upcastingdowncasting\\upcastingdowncasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87BBF60-FBA9-4861-AB2A-FDD737CDF661}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87BBF60-FBA9-4861-AB2A-FDD737CDF661}|UpcastingDowncasting\\UpcastingDowncasting.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\upcastingdowncasting\\upcastingdowncasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87BBF60-FBA9-4861-AB2A-FDD737CDF661}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87BBF60-FBA9-4861-AB2A-FDD737CDF661}|UpcastingDowncasting\\UpcastingDowncasting.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\upcastingdowncasting\\upcastingdowncasting\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87BBF60-FBA9-4861-AB2A-FDD737CDF661}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87BBF60-FBA9-4861-AB2A-FDD737CDF661}|UpcastingDowncasting\\UpcastingDowncasting.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\upcastingdowncasting\\upcastingdowncasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87BBF60-FBA9-4861-AB2A-FDD737CDF661}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:25:09.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:14:08.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\Account.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Entities\\Account.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:10:53.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\UpcastingDowncasting\\UpcastingDowncasting\\Program.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\UpcastingDowncasting\\UpcastingDowncasting\\Program.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:08:54.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

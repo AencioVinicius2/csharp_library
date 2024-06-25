@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\SobreposicaoPalavrasVirtualOverrideEBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D32E9A44-DA8B-407B-89C4-509B69F87DDB}|SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\sobreposicaopalavrasvirtualoverrideebase\\sobreposicaopalavrasvirtualoverrideebase\\entities\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32E9A44-DA8B-407B-89C4-509B69F87DDB}|SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase.csproj|solutionrelative:sobreposicaopalavrasvirtualoverrideebase\\entities\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32E9A44-DA8B-407B-89C4-509B69F87DDB}|SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\sobreposicaopalavrasvirtualoverrideebase\\sobreposicaopalavrasvirtualoverrideebase\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32E9A44-DA8B-407B-89C4-509B69F87DDB}|SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase.csproj|solutionrelative:sobreposicaopalavrasvirtualoverrideebase\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32E9A44-DA8B-407B-89C4-509B69F87DDB}|SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\sobreposicaopalavrasvirtualoverrideebase\\sobreposicaopalavrasvirtualoverrideebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32E9A44-DA8B-407B-89C4-509B69F87DDB}|SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase.csproj|solutionrelative:sobreposicaopalavrasvirtualoverrideebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32E9A44-DA8B-407B-89C4-509B69F87DDB}|SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\sobreposicaopalavrasvirtualoverrideebase\\sobreposicaopalavrasvirtualoverrideebase\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32E9A44-DA8B-407B-89C4-509B69F87DDB}|SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase.csproj|solutionrelative:sobreposicaopalavrasvirtualoverrideebase\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\Account.cs",
+              "RelativeToolTip": "SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\Account.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:59:01.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\SavingAccount.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\SavingAccount.cs",
+              "RelativeToolTip": "SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\SavingAccount.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwBoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:58:53.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "SobreposicaoPalavrasVirtualOverrideEBase\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:58:39.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase\\Program.cs",
+              "RelativeDocumentMoniker": "SobreposicaoPalavrasVirtualOverrideEBase\\Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\SobreposicaoPalavrasVirtualOverrideEBase\\SobreposicaoPalavrasVirtualOverrideEBase\\Program.cs",
+              "RelativeToolTip": "SobreposicaoPalavrasVirtualOverrideEBase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:44:56.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

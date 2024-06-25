@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3896BF43-1E91-4324-829D-39D6169BF07A}|ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\classesem\u00E9todosselados\\classesem\u00E9todosselados\\entities\\savingaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3896BF43-1E91-4324-829D-39D6169BF07A}|ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados.csproj|solutionrelative:classesem\u00E9todosselados\\entities\\savingaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3896BF43-1E91-4324-829D-39D6169BF07A}|ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\classesem\u00E9todosselados\\classesem\u00E9todosselados\\entities\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3896BF43-1E91-4324-829D-39D6169BF07A}|ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados.csproj|solutionrelative:classesem\u00E9todosselados\\entities\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3896BF43-1E91-4324-829D-39D6169BF07A}|ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\classesem\u00E9todosselados\\classesem\u00E9todosselados\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3896BF43-1E91-4324-829D-39D6169BF07A}|ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados.csproj|solutionrelative:classesem\u00E9todosselados\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3896BF43-1E91-4324-829D-39D6169BF07A}|ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\classesem\u00E9todosselados\\classesem\u00E9todosselados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3896BF43-1E91-4324-829D-39D6169BF07A}|ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados.csproj|solutionrelative:classesem\u00E9todosselados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3896BF43-1E91-4324-829D-39D6169BF07A}|ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\heran\u00E7apolimorfismo\\classesem\u00E9todosselados\\classesem\u00E9todosselados\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3896BF43-1E91-4324-829D-39D6169BF07A}|ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados.csproj|solutionrelative:classesem\u00E9todosselados\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingAccountPlus.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados\\Entities\\SavingAccountPlus.cs",
+              "RelativeDocumentMoniker": "ClassesEM\u00E9todosSelados\\Entities\\SavingAccountPlus.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados\\Entities\\SavingAccountPlus.cs",
+              "RelativeToolTip": "ClassesEM\u00E9todosSelados\\Entities\\SavingAccountPlus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:23:07.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados\\Entities\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "ClassesEM\u00E9todosSelados\\Entities\\SavingAccount.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados\\Entities\\SavingAccount.cs",
+              "RelativeToolTip": "ClassesEM\u00E9todosSelados\\Entities\\SavingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:20:48.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "ClassesEM\u00E9todosSelados\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "ClassesEM\u00E9todosSelados\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:20:32.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "ClassesEM\u00E9todosSelados\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados\\Entities\\Account.cs",
+              "RelativeToolTip": "ClassesEM\u00E9todosSelados\\Entities\\Account.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:20:14.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesEM\u00E9todosSelados\\Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Heran\u00E7aPolimorfismo\\ClassesEM\u00E9todosSelados\\ClassesEM\u00E9todosSelados\\Program.cs",
+              "RelativeToolTip": "ClassesEM\u00E9todosSelados\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:16:33.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
