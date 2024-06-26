@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\HerancaPolimorfismo\\ExercicioDeFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB6D7A1-9965-4FD8-9E01-35721EF2EEAA}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\herancapolimorfismo\\exerciciodefixacao\\exerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB6D7A1-9965-4FD8-9E01-35721EF2EEAA}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\HerancaPolimorfismo\\ExercicioDeFixacao\\ExercicioDeFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioDeFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\HerancaPolimorfismo\\ExercicioDeFixacao\\ExercicioDeFixacao\\Program.cs",
+              "RelativeToolTip": "ExercicioDeFixacao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:26:36.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
