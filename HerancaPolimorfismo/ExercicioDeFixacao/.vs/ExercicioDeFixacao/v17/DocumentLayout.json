@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABB6D7A1-9965-4FD8-9E01-35721EF2EEAA}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\herancapolimorfismo\\exerciciodefixacao\\exerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABB6D7A1-9965-4FD8-9E01-35721EF2EEAA}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB6D7A1-9965-4FD8-9E01-35721EF2EEAA}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\herancapolimorfismo\\exerciciodefixacao\\exerciciodefixacao\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB6D7A1-9965-4FD8-9E01-35721EF2EEAA}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB6D7A1-9965-4FD8-9E01-35721EF2EEAA}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\herancapolimorfismo\\exerciciodefixacao\\exerciciodefixacao\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB6D7A1-9965-4FD8-9E01-35721EF2EEAA}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB6D7A1-9965-4FD8-9E01-35721EF2EEAA}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\herancapolimorfismo\\exerciciodefixacao\\exerciciodefixacao\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB6D7A1-9965-4FD8-9E01-35721EF2EEAA}|ExercicioDeFixacao\\ExercicioDeFixacao.csproj|solutionrelative:exerciciodefixacao\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\HerancaPolimorfismo\\ExercicioDeFixacao\\ExercicioDeFixacao\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioDeFixacao\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\HerancaPolimorfismo\\ExercicioDeFixacao\\ExercicioDeFixacao\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioDeFixacao\\Entities\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:41:21.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\HerancaPolimorfismo\\ExercicioDeFixacao\\ExercicioDeFixacao\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ExercicioDeFixacao\\Entities\\UsedProduct.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\HerancaPolimorfismo\\ExercicioDeFixacao\\ExercicioDeFixacao\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ExercicioDeFixacao\\Entities\\UsedProduct.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:40:52.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\HerancaPolimorfismo\\ExercicioDeFixacao\\ExercicioDeFixacao\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ExercicioDeFixacao\\Entities\\ImportedProduct.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\HerancaPolimorfismo\\ExercicioDeFixacao\\ExercicioDeFixacao\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ExercicioDeFixacao\\Entities\\ImportedProduct.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBAAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:40:31.894Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "ExercicioDeFixacao\\Program.cs",
               "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\HerancaPolimorfismo\\ExercicioDeFixacao\\ExercicioDeFixacao\\Program.cs",
               "RelativeToolTip": "ExercicioDeFixacao\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T19:26:36.81Z",
               "EditorCaption": ""
