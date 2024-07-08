@@ -7,6 +7,11 @@ namespace ExercicioDeFixacao.Entities
     class ImportedProduct : Product
     {
         public double CustomsFee { get; set; }
+
+        public ImportedProduct() 
+        { 
+        
+        }
         ImportedProduct(string nome, double price, double customsFee ) : base(nome, price)
         {
             CustomsFee = customsFee;
@@ -20,6 +25,17 @@ namespace ExercicioDeFixacao.Entities
         public double totalPrice()
         {
             return CustomsFee + Price;
+        }
+        public override string ToString()
+        {
+            return "Name: "
+                        + Name
+                        + Environment.NewLine
+                        + "Price"
+                        + Price
+                        + Environment.NewLine
+                        + "Customs fee: "
+                        + CustomsFee;
         }
     }
 }
