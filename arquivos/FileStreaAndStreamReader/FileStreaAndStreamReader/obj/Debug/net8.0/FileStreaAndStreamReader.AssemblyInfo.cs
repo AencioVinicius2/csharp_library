@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileStreaAndStreamReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1de9256202dd89156f47ea13c73d29d70c047e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c917139bef80c3655741b3a9cf10118b9f04bc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileStreaAndStreamReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileStreaAndStreamReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

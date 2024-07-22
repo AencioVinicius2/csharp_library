@@ -1,0 +1,5 @@
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MeUTodo\obj\Debug\net5.0\MeUTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MeUTodo\obj\Debug\net5.0\MeUTodo.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MeUTodo\obj\Debug\net5.0\MeUTodo.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MeUTodo\obj\Debug\net5.0\MeUTodo.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\APIC#\MeUTodo\obj\Debug\net5.0\MeUTodo.MvcApplicationPartsAssemblyInfo.cache

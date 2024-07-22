@@ -1,0 +1,15 @@
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\bin\Debug\net8.0\FileStreaAndStreamReader.exe
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\bin\Debug\net8.0\FileStreaAndStreamReader.deps.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\bin\Debug\net8.0\FileStreaAndStreamReader.runtimeconfig.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\bin\Debug\net8.0\FileStreaAndStreamReader.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\bin\Debug\net8.0\FileStreaAndStreamReader.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\obj\Debug\net8.0\FileStreaAndStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\obj\Debug\net8.0\FileStreaAndStreamReader.AssemblyInfoInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\obj\Debug\net8.0\FileStreaAndStreamReader.AssemblyInfo.cs
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\obj\Debug\net8.0\FileStreaAndStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\obj\Debug\net8.0\FileStreaAndStreamReader.sourcelink.json
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\obj\Debug\net8.0\FileStreaAndStreamReader.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\obj\Debug\net8.0\refint\FileStreaAndStreamReader.dll
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\obj\Debug\net8.0\FileStreaAndStreamReader.pdb
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\obj\Debug\net8.0\FileStreaAndStreamReader.genruntimeconfig.cache
+C:\Users\aenpv\OneDrive\Documentos\C#02\arquivos\FileStreaAndStreamReader\FileStreaAndStreamReader\obj\Debug\net8.0\ref\FileStreaAndStreamReader.dll

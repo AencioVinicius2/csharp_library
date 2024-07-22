@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|c:\\users\\aenpv\\onedrive\\documentos\\apic#\\meutodo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|c:\\users\\aenpv\\onedrive\\documentos\\apic#\\meutodo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|c:\\users\\aenpv\\onedrive\\documentos\\apic#\\meutodo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|c:\\users\\aenpv\\onedrive\\documentos\\apic#\\meutodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|c:\\users\\aenpv\\onedrive\\documentos\\apic#\\meutodo\\meutodo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|solutionrelative:meutodo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|c:\\users\\aenpv\\onedrive\\documentos\\apic#\\meutodo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FA10C2-AC29-49D7-BAD7-AC152595DACB}|MeUTodo.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T19:22:03.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:42:19.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\Models\\Todo.cs",
+              "RelativeToolTip": "Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:41:04.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeUTodo.csproj",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\MeUTodo.csproj",
+              "RelativeDocumentMoniker": "MeUTodo.csproj",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\MeUTodo.csproj",
+              "RelativeToolTip": "MeUTodo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T18:39:20.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:36:55.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:36:46.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
