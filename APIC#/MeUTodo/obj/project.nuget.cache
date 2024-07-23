@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IT1phUD4ZD9jN3+RnkJ1M7MU/Ndj2/bo4VHh+mwp8gQ0UUMVLLqpk3sARys66xCOL+tyikdaRqxX3XHlxQim/g==",
+  "dgSpecHash": "s2fK8eIYlko=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\APIC#\\MeUTodo\\MeUTodo.csproj",
+  "projectFilePath": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\APIC#\\MeUTodo\\MeUTodo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aenpv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aenpv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
