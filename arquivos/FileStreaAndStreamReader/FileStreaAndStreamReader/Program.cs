@@ -9,8 +9,10 @@ namespace Course {
 
             try {
                 sr = new StreamReader(path);
-                string line = sr.ReadLine();
-                Console.WriteLine(line);
+                while (!sr.EndOfStream) {
+                    string line = sr.ReadLine();
+                    Console.WriteLine(line);
+                }
             } catch (IOException e) {
                 Console.WriteLine("An error accurred");
                 Console.WriteLine(e.Message);
