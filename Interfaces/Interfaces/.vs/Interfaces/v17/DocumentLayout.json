@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{7097EBAC-04DB-47A4-A40D-66929B8EE5EC}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7097EBAC-04DB-47A4-A40D-66929B8EE5EC}|Interfaces\\Interfaces.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\interfaces\\interfaces\\interfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7097EBAC-04DB-47A4-A40D-66929B8EE5EC}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7097EBAC-04DB-47A4-A40D-66929B8EE5EC}|Interfaces\\Interfaces.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\interfaces\\interfaces\\interfaces\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7097EBAC-04DB-47A4-A40D-66929B8EE5EC}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7097EBAC-04DB-47A4-A40D-66929B8EE5EC}|Interfaces\\Interfaces.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\interfaces\\interfaces\\interfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7097EBAC-04DB-47A4-A40D-66929B8EE5EC}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7097EBAC-04DB-47A4-A40D-66929B8EE5EC}|Interfaces\\Interfaces.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\interfaces\\interfaces\\interfaces\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7097EBAC-04DB-47A4-A40D-66929B8EE5EC}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7097EBAC-04DB-47A4-A40D-66929B8EE5EC}|Interfaces\\Interfaces.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\interfaces\\interfaces\\interfaces\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,37 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Services\\ITaxService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\ITaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:05:18.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RentalService.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Services\\RentalService.cs",
               "RelativeDocumentMoniker": "Interfaces\\Services\\RentalService.cs",
               "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Services\\RentalService.cs",
               "RelativeToolTip": "Interfaces\\Services\\RentalService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwB4AAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T13:59:02.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BrazilTaxService.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Services\\BrazilTaxService.cs",
               "RelativeDocumentMoniker": "Interfaces\\Services\\BrazilTaxService.cs",
               "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Services\\BrazilTaxService.cs",
               "RelativeToolTip": "Interfaces\\Services\\BrazilTaxService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T13:46:24.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CarRental.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Entities\\CarRental.cs",
               "RelativeDocumentMoniker": "Interfaces\\Entities\\CarRental.cs",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Invoice.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Entities\\Invoice.cs",
               "RelativeDocumentMoniker": "Interfaces\\Entities\\Invoice.cs",
@@ -92,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Entities\\Vehicle.cs",
               "RelativeDocumentMoniker": "Interfaces\\Entities\\Vehicle.cs",
@@ -104,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Interfaces.csproj",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Interfaces.csproj",
               "RelativeDocumentMoniker": "Interfaces\\Interfaces.csproj",
@@ -122,7 +139,7 @@
               "RelativeDocumentMoniker": "Interfaces\\Program.cs",
               "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\Interfaces\\Interfaces\\Interfaces\\Program.cs",
               "RelativeToolTip": "Interfaces\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAgwB0AAAAvAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T12:16:55.858Z",
               "EditorCaption": ""
