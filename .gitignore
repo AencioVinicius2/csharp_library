@@ -4,7 +4,7 @@
 ## Get latest from `dotnet new gitignore`
 
 # Ignorar todos os arquivos .json no caminho específico
-/C#02/webAPIDOTNET/webApidotnet/webApidotnet/*.json
+webAPIDOTNET/webApidotnet/webApidotnet/*.json
 
 # dotenv files
 .env
