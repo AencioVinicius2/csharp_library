@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webApidotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+581751fb562e634a16af990113c1433a6a0913da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7f7cddbf612e6ad3651acadcd658ae8eb6c2442")]
 [assembly: System.Reflection.AssemblyProductAttribute("webApidotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webApidotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
