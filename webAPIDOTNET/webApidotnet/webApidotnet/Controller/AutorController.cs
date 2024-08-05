@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using webApidotnet.Dto.Autor;
 using webApidotnet.Models;
 using webApidotnet.Services.IAutor;
 
@@ -30,6 +31,12 @@ namespace webApidotnet.Controller {
         public async Task<ActionResult<ResponseModel<AutorModel>>> BuscarAutorPorIdLivro(int idLivro) {
             var autor = await _autorInterface.BuscarAutorPorIdLivro(idLivro);
             return Ok(autor);
+        }
+
+        [HttpPost("CriarAutor")]
+        public async Task<ActionResult<ResponseModel<AutorModel>>> CriarAutor(AutorCriacaoDto autorCriacaoDto) {
+            var autores = await _autorInterface.CriarAutor(autorCriacaoDto);
+            return Ok(autores);
         }
     }
 }
