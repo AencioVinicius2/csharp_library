@@ -5,5 +5,10 @@ namespace webApidotnet.Controller {
     [Route("api/[controller]")]
     [ApiController]
     public class AutorController : ControllerBase {
+        private readonly 
+        public AutorController() {
+
+        }
+
     }
 }
