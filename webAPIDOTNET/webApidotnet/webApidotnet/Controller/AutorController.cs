@@ -7,7 +7,9 @@ namespace webApidotnet.Controller {
     [Route("api/[controller]")]
     [ApiController]
     public class AutorController : ControllerBase {
+
         private readonly IAutorInterface _autorInterface;
+
         public AutorController(IAutorInterface autorInterface) {
             _autorInterface = autorInterface;
         }
@@ -18,7 +20,11 @@ namespace webApidotnet.Controller {
             return Ok(autores);
         }
 
-
+        [HttpGet("BuscarAutorPorId/{idAutor}")]
+        public async Task<ActionResult<ResponseModel<AutorModel>>> BuscarAutorPorId(int idAutor) {
+            var autor = await _autorInterface.BuscarAutorPorId(idAutor);
+            return Ok(autor);
+        }
 
     }
 }
