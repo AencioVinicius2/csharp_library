@@ -30,7 +30,24 @@ namespace webApidotnet.Services.Autor {
         }
 
         public async Task<ResponseModel<AutorModel>> BuscarAutorPorIdLivro(int idLivro) {
-            throw new NotImplementedException();
+            ResponseModel<AutorModel> resposta = new ResponseModel<AutorModel>();
+            try {
+                var livro = await _context.Livro
+                    .Include(a => a.Autor)
+                    .FirstOrDefaultAsync(livroBanco => livroBanco.Id == idLivro);
+                        
+                if (livro == null) {
+                    resposta.Mensagem = "Nenhum registro localizado!";
+                    return resposta;
+                }
+                resposta.Dados = livro.Autor;
+                resposta.Mensagem = "Autor Localizado!";
+                return resposta;
+            } catch (Exception ex) {
+                resposta.Mensagem = ex.Message;
+                resposta.Status = false;
+                return resposta;
+            }
         }
 
         public async Task<ResponseModel<List<AutorModel>>> ListarAutores() {

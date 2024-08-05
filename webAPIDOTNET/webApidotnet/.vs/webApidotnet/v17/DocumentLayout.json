@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\controller\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\controller\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\webapidotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\webapidotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -50,24 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240802184929_CriandoBancoDeDados.cs",
-              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Migrations\\20240802184929_CriandoBancoDeDados.cs",
-              "RelativeDocumentMoniker": "webApidotnet\\Migrations\\20240802184929_CriandoBancoDeDados.cs",
-              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Migrations\\20240802184929_CriandoBancoDeDados.cs",
-              "RelativeToolTip": "webApidotnet\\Migrations\\20240802184929_CriandoBancoDeDados.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:49:30.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LivroModel.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Models\\LivroModel.cs",
               "RelativeDocumentMoniker": "webApidotnet\\Models\\LivroModel.cs",
@@ -75,8 +62,7 @@
               "RelativeToolTip": "webApidotnet\\Models\\LivroModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T15:01:27.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T15:01:27.245Z"
             },
             {
               "$type": "Document",
@@ -86,14 +72,14 @@
               "RelativeDocumentMoniker": "webApidotnet\\Services\\Autor\\IAutorInterface.cs",
               "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Services\\Autor\\IAutorInterface.cs",
               "RelativeToolTip": "webApidotnet\\Services\\Autor\\IAutorInterface.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T16:14:20.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Program.cs",
               "RelativeDocumentMoniker": "webApidotnet\\Program.cs",
@@ -101,8 +87,7 @@
               "RelativeToolTip": "webApidotnet\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T14:23:39.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T14:23:39.346Z"
             },
             {
               "$type": "Document",
@@ -112,14 +97,14 @@
               "RelativeDocumentMoniker": "webApidotnet\\Services\\Autor\\AutorService.cs",
               "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Services\\Autor\\AutorService.cs",
               "RelativeToolTip": "webApidotnet\\Services\\Autor\\AutorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB8AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T16:18:37.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AutorController.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Controller\\AutorController.cs",
               "RelativeDocumentMoniker": "webApidotnet\\Controller\\AutorController.cs",
@@ -127,12 +112,11 @@
               "RelativeToolTip": "webApidotnet\\Controller\\AutorController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T16:11:40.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:11:40.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AutorModel.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Models\\AutorModel.cs",
               "RelativeDocumentMoniker": "webApidotnet\\Models\\AutorModel.cs",
@@ -140,18 +124,17 @@
               "RelativeToolTip": "webApidotnet\\Models\\AutorModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T14:59:53.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T14:59:53.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "webApidotnet\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Data\\AppDbContext.cs",
               "RelativeToolTip": "webApidotnet\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T14:56:18.722Z",
               "EditorCaption": ""
@@ -159,6 +142,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "20240802184929_CriandoBancoDeDados.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Migrations\\20240802184929_CriandoBancoDeDados.cs",
+              "RelativeDocumentMoniker": "webApidotnet\\Migrations\\20240802184929_CriandoBancoDeDados.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Migrations\\20240802184929_CriandoBancoDeDados.cs",
+              "RelativeToolTip": "webApidotnet\\Migrations\\20240802184929_CriandoBancoDeDados.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:49:30.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Models\\ResponseModel.cs",
               "RelativeDocumentMoniker": "webApidotnet\\Models\\ResponseModel.cs",
@@ -166,8 +161,7 @@
               "RelativeToolTip": "webApidotnet\\Models\\ResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T16:15:08.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:15:08.244Z"
             },
             {
               "$type": "Document",
