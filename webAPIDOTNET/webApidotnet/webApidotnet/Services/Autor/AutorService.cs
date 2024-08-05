@@ -75,6 +75,34 @@ namespace webApidotnet.Services.Autor {
             }
         }
 
+        public Task<ResponseModel<List<AutorModel>>> EditarAutor(AutorCriacaoDto autorCriacaoDto) {
+            throw new NotImplementedException();
+        }
+
+        public async Task<ResponseModel<List<AutorModel>>> ExcluirAutor(int idAutor) {
+            ResponseModel<List<AutorModel>> resposta = new ResponseModel<List<AutorModel>>();
+            try {
+                var autor = await _context.Autores
+                    .FirstOrDefaultAsync(autorBanco => autorBanco.Id == idAutor);
+
+                if(autor == null) {
+                    resposta.Mensagem = "Nenuhum autor localizado!";
+                    return resposta;
+                }
+                _context.Remove(autor);
+                await _context.SaveChangesAsync();  
+
+                resposta.Dados = await _context.Autores.ToListAsync();
+                resposta.Mensagem = "Autor removido com sucesso!"
+                return resposta;
+
+            } catch (Exception ex) {
+                resposta.Mensagem = ex.Message;
+                resposta.Status = false;
+                return resposta;
+            }
+        }
+
         public async Task<ResponseModel<List<AutorModel>>> ListarAutores() {
             ResponseModel<List<AutorModel>> resposta = new ResponseModel<List<AutorModel>>();
             try {
