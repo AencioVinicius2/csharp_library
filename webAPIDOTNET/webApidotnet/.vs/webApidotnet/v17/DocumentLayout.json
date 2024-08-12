@@ -11,36 +11,40 @@
       "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\dto\\autor\\autoredicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\dto\\autor\\autoredicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\dto\\autor\\autorcriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\dto\\autor\\autorcriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\controller\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\controller\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\dto\\autor\\autorcriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\dto\\autor\\autorcriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\dto\\autor\\autoredicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\dto\\autor\\autoredicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|solutionrelative:webapidotnet\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8F515CB-9E38-4486-9BE2-48C95D125105}|webApidotnet\\webApidotnet.csproj|c:\\users\\aenpv\\onedrive\\documentos\\c#02\\webapidotnet\\webapidotnet\\webapidotnet\\migrations\\20240802184929_criandobancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,19 +62,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutorEdicaoDto.cs",
-              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Dto\\Autor\\AutorEdicaoDto.cs",
-              "RelativeDocumentMoniker": "webApidotnet\\Dto\\Autor\\AutorEdicaoDto.cs",
-              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Dto\\Autor\\AutorEdicaoDto.cs",
-              "RelativeToolTip": "webApidotnet\\Dto\\Autor\\AutorEdicaoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "webApidotnet\\appsettings.json",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\appsettings.json",
+              "RelativeToolTip": "webApidotnet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T18:51:59.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Controller\\AutorController.cs",
+              "RelativeDocumentMoniker": "webApidotnet\\Controller\\AutorController.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Controller\\AutorController.cs",
+              "RelativeToolTip": "webApidotnet\\Controller\\AutorController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:41:02.297Z",
+              "WhenOpened": "2024-08-05T16:11:40.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorModel.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Models\\AutorModel.cs",
+              "RelativeDocumentMoniker": "webApidotnet\\Models\\AutorModel.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Models\\AutorModel.cs",
+              "RelativeToolTip": "webApidotnet\\Models\\AutorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:59:53.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutorCriacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Dto\\Autor\\AutorCriacaoDto.cs",
+              "RelativeDocumentMoniker": "webApidotnet\\Dto\\Autor\\AutorCriacaoDto.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Dto\\Autor\\AutorCriacaoDto.cs",
+              "RelativeToolTip": "webApidotnet\\Dto\\Autor\\AutorCriacaoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:02:08.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "webApidotnet\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "webApidotnet\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:56:18.722Z",
               "EditorCaption": ""
             },
             {
@@ -81,7 +136,7 @@
               "RelativeDocumentMoniker": "webApidotnet\\Services\\Autor\\IAutorInterface.cs",
               "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Services\\Autor\\IAutorInterface.cs",
               "RelativeToolTip": "webApidotnet\\Services\\Autor\\IAutorInterface.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T16:14:20.296Z",
               "EditorCaption": ""
@@ -94,38 +149,14 @@
               "RelativeDocumentMoniker": "webApidotnet\\Services\\Autor\\AutorService.cs",
               "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Services\\Autor\\AutorService.cs",
               "RelativeToolTip": "webApidotnet\\Services\\Autor\\AutorService.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAhwFEAAABHAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwDQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T16:18:37.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AutorController.cs",
-              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Controller\\AutorController.cs",
-              "RelativeDocumentMoniker": "webApidotnet\\Controller\\AutorController.cs",
-              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Controller\\AutorController.cs",
-              "RelativeToolTip": "webApidotnet\\Controller\\AutorController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T16:11:40.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutorModel.cs",
-              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Models\\AutorModel.cs",
-              "RelativeDocumentMoniker": "webApidotnet\\Models\\AutorModel.cs",
-              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Models\\AutorModel.cs",
-              "RelativeToolTip": "webApidotnet\\Models\\AutorModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T14:59:53.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "LivroModel.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Models\\LivroModel.cs",
               "RelativeDocumentMoniker": "webApidotnet\\Models\\LivroModel.cs",
@@ -137,43 +168,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AutorCriacaoDto.cs",
-              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Dto\\Autor\\AutorCriacaoDto.cs",
-              "RelativeDocumentMoniker": "webApidotnet\\Dto\\Autor\\AutorCriacaoDto.cs",
-              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Dto\\Autor\\AutorCriacaoDto.cs",
-              "RelativeToolTip": "webApidotnet\\Dto\\Autor\\AutorCriacaoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:02:08.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Program.cs",
               "RelativeDocumentMoniker": "webApidotnet\\Program.cs",
               "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Program.cs",
               "RelativeToolTip": "webApidotnet\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T14:23:39.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "webApidotnet\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "webApidotnet\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "DocumentIndex": 8,
+              "Title": "AutorEdicaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Dto\\Autor\\AutorEdicaoDto.cs",
+              "RelativeDocumentMoniker": "webApidotnet\\Dto\\Autor\\AutorEdicaoDto.cs",
+              "ToolTip": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Dto\\Autor\\AutorEdicaoDto.cs",
+              "RelativeToolTip": "webApidotnet\\Dto\\Autor\\AutorEdicaoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T14:56:18.722Z"
+              "WhenOpened": "2024-08-05T19:41:02.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Models\\ResponseModel.cs",
               "RelativeDocumentMoniker": "webApidotnet\\Models\\ResponseModel.cs",
@@ -185,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20240802184929_CriandoBancoDeDados.cs",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\Migrations\\20240802184929_CriandoBancoDeDados.cs",
               "RelativeDocumentMoniker": "webApidotnet\\Migrations\\20240802184929_CriandoBancoDeDados.cs",
@@ -197,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "webApidotnet.csproj",
               "DocumentMoniker": "C:\\Users\\aenpv\\OneDrive\\Documentos\\C#02\\webAPIDOTNET\\webApidotnet\\webApidotnet\\webApidotnet.csproj",
               "RelativeDocumentMoniker": "webApidotnet\\webApidotnet.csproj",

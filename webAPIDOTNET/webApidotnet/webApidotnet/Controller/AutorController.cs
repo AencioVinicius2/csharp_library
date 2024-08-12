@@ -34,8 +34,22 @@ namespace webApidotnet.Controller {
         }
 
         [HttpPost("CriarAutor")]
-        public async Task<ActionResult<ResponseModel<AutorModel>>> CriarAutor(AutorCriacaoDto autorCriacaoDto) {
+        public async Task<ActionResult<ResponseModel<List<AutorModel>>>> CriarAutor(AutorCriacaoDto autorCriacaoDto) {
             var autores = await _autorInterface.CriarAutor(autorCriacaoDto);
+            return Ok(autores);
+        }
+
+        [HttpPut("EditarAutor")]
+        public async Task<ActionResult<ResponseModel<AutorModel>>> EditarAutor(AutorEdicaoDto autorEdicaoDto)
+        {
+            var autores = await _autorInterface.EditarAutor(autorEdicaoDto);
+            return Ok(autores);
+        }
+
+        [HttpDelete("ExcluirAutor")]
+        public async Task<ActionResult<ResponseModel<List<AutorModel>>>> ExcluirAutor(int idAutor)
+        {
+            var autores = await _autorInterface.ExcluirAutor(idAutor);
             return Ok(autores);
         }
     }

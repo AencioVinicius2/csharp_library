@@ -10,6 +10,7 @@ namespace webApidotnet.Services.Autor {
         public AutorService(AppDbContext context) {
             _context = context;
         }
+        
         public async Task<ResponseModel<AutorModel>> BuscarAutorPorId(int idAutor) {
             ResponseModel<AutorModel> resposta = new ResponseModel<AutorModel>();
             try {
@@ -93,7 +94,7 @@ namespace webApidotnet.Services.Autor {
                 await _context.SaveChangesAsync();  
 
                 resposta.Dados = await _context.Autores.ToListAsync();
-                resposta.Mensagem = "Autor removido com sucesso!"
+                resposta.Mensagem = "Autor removido com sucesso!";
                 return resposta;
 
             } catch (Exception ex) {
