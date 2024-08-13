@@ -76,7 +76,7 @@ namespace webApidotnet.Services.Autor {
             }
         }
 
-        public Task<ResponseModel<List<AutorModel>>> EditarAutor(AutorCriacaoDto autorCriacaoDto) {
+        public Task<ResponseModel<List<AutorModel>>> EditarAutor(AutorEdicaoDto autorCriacaoDto) {
             throw new NotImplementedException();
         }
 
