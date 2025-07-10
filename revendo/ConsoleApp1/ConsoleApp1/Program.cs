@@ -6,17 +6,32 @@ namespace ConsoleApp1 {
     {
         static void Main(string[] args)
         {
-            Triangulo area = new Triangulo();
+            Triangulo x, y;
 
-            double a, b, c;
+            x = new Triangulo();
+            y = new Triangulo();
+
 
             Console.WriteLine("Entre com as medidas do triangulo X");
+            x.A = double.Parse(Console.ReadLine());
+            x.B = double.Parse(Console.ReadLine());
+            x.C = double.Parse(Console.ReadLine());
 
-             area.A = double.Parse(Console.ReadLine());
-             area.B = double.Parse(Console.ReadLine());
-             area.C = double.Parse(Console.ReadLine());
+            Console.WriteLine("Entre com as medidas do triangulo Y");
+            y.A = double.Parse(Console.ReadLine());
+            y.B = double.Parse(Console.ReadLine());
+            y.C = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("A area do triangulo x é " + area.Area().ToString("f4"), CultureInfo.InvariantCulture);
+            Console.WriteLine("A area do triangulo X é " + x.Area().ToString("f4"), CultureInfo.InvariantCulture);
+            Console.WriteLine("A area do triangulo Y é " + y.Area().ToString("f4"), CultureInfo.InvariantCulture);
+
+            if(x.Area() > y.Area())
+            {
+                Console.WriteLine("Maior area X");
+            } else
+            {
+                Console.WriteLine("Maior area Y");
+            }
 
         }
     } 
