@@ -9,7 +9,13 @@ namespace Delegacao
 {
     internal class Produto
     {
-        private string _nome;
+        // atributos privados 
+        // propriedades autoimplementadas
+        // construtores
+        // propriedades customizadas
+        // outros metodos da classe
+
+        private string _nome; 
         private double _preco;
         private int _quantidade;
 
@@ -25,22 +31,9 @@ namespace Delegacao
             _quantidade = quantidade;
         }
 
-        public double ValorTotalEmEstoque()
-        {
-            return _preco * _quantidade;
-        }
 
-        public void AdicionarProdutos(int quantidade)
+        public string Nome
         {
-            _quantidade += quantidade;
-        }
-
-        public void RemoverQuantidade(int quantidade)
-        {
-            _quantidade -= quantidade;
-        }
-
-        public string Nome {
             get { return _nome; }
             set
             {
@@ -50,7 +43,7 @@ namespace Delegacao
                 }
             }
         }
-        
+
         public double Preco
         {
             get { return _preco; }
@@ -76,6 +69,23 @@ namespace Delegacao
         }
 
 
+        public double ValorTotalEmEstoque()
+        {
+            return _preco * _quantidade;
+        }
+
+
+        public void AdicionarProdutos(int quantidade)
+        {
+            _quantidade += quantidade;
+        }
+
+        public void RemoverQuantidade(int quantidade)
+        {
+            _quantidade -= quantidade;
+        }
+
+         
         public override string ToString()
         {
             return _nome
