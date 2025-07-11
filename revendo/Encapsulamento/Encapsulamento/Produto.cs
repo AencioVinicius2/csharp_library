@@ -40,44 +40,41 @@ namespace Delegacao
             _quantidade -= quantidade;
         }
 
-        public string GetNome()
-        {
-            return _nome;
-        }
-
-        public void SetNome(string nome)
-        {
-            if(nome != null && nome.Length > 1 )
+        public string Nome {
+            get { return _nome; }
+            set
             {
-                _nome = nome;
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+            }
+        }
+        
+        public double Preco
+        {
+            get { return _preco; }
+            set
+            {
+                if (value != 0)
+                {
+                    _preco = value;
+                }
             }
         }
 
-        public double GetPreco()
+        public int Quantidade
         {
-            return _preco;
-        }
-
-        public void SetPreco(double preco)
-        {
-            if(preco != 0)
+            get { return _quantidade; }
+            set
             {
-                _preco = preco;
+                if (value != 0)
+                {
+                    _quantidade = value;
+                }
             }
         }
 
-        public int GetQuantidade()
-        {
-            return _quantidade;
-        }
-
-        public void SetQuantidade(int quantidade)
-        {
-            if (quantidade != 0)
-            {
-                _quantidade = quantidade;
-            }
-        }
 
         public override string ToString()
         {
