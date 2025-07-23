@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EmployeeAdminPortal.Models.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeAdminPortal.Data
 {
@@ -7,5 +8,7 @@ namespace EmployeeAdminPortal.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { 
             
         }
+
+        public DbSet<Employee> Employees { get; set; } 
     }
 }
