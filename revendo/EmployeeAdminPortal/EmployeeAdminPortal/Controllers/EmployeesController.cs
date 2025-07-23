@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using EmployeeAdminPortal.Data;
+using EmployeeAdminPortal.Models;
+using EmployeeAdminPortal.Models.Entities;
 
 namespace EmployeeAdminPortal.Controllers
 {
@@ -12,6 +14,10 @@ namespace EmployeeAdminPortal.Controllers
     {
         private readonly ApplicationDbContext dbContext;
 
+        public EmployeesController(ApplicationDbContext dbContext)
+        {
+            this.dbContext = dbContext;
+        }
 
 
         [HttpGet] 
@@ -20,6 +26,23 @@ namespace EmployeeAdminPortal.Controllers
             var allEmployees = dbContext.Employees.ToList();
 
             return Ok(allEmployees);
+        }
+
+        [HttpPost]
+        public IActionResult AddEmployee(AddEmployeeDto addEmployeeDto)
+        {
+            var employeeEntity = new Employee()
+            {
+                Name = addEmployeeDto.Name,
+                Email = addEmployeeDto.Email,
+                Phone = addEmployeeDto.Phone,
+                Salary = addEmployeeDto.Salary
+            };
+
+            dbContext.Employees.Add(employeeEntity);
+            dbContext.SaveChanges();
+
+            return Ok(employeeEntity);
         }
     }
 }
