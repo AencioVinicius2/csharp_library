@@ -26,7 +26,25 @@ namespace Matrizes
             }
 
 
+            Console.WriteLine("Main diagonal:");
+            for(int i = 0; i < n; i++)
+            {
+                Console.Write(mat[i,i] + " ");
+            }
+            Console.WriteLine();
 
+            int count;
+
+            for(int i = 0; i < n; i++)
+            {
+                for(int j = 0; j < n; j++)
+                {
+                    if (mat[i,j] < 0)
+                    {
+                        i++;
+                    }
+                }
+            }
 
 
 
