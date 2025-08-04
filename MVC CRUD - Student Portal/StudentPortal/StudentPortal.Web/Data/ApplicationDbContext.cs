@@ -9,7 +9,7 @@ namespace StudentPortal.Web.Data
         {
             
         }
-
+            
         public DbSet<Student> Students { get; set; }
 
 
