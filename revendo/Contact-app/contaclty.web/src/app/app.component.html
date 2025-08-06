@@ -1,7 +1,11 @@
-@if(contact$ | async;as contacts) {
-  @if(contacts.length > 0) {
-    
-  } else {
-    <p>No contacts found ...</p>
-  }
-}
+<ng-container *ngIf="contacts$ | async as contacts">
+  <ng-container *ngIf="contacts.length > 0; else noContacts">
+    <ng-container *ngFor="let item of contacts; index as i"> 
+      <p>{{item.name}}</p>
+    </ng-container>
+  </ng-container>
+</ng-container>
+
+<ng-template #noContacts>
+  <p>No contacts found ...</p>
+</ng-template>
