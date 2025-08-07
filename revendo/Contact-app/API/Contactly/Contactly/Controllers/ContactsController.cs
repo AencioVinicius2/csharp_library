@@ -40,6 +40,21 @@ namespace Contactly.Controllers
 
             return Ok(request);
         }
+        [HttpDelete]
+        [Route("{id:guid}")]
+        public async Task<IActionResult> DeleteContact(Guid id)
+        {
+            var contactId = await dbContext.Contacts.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
+
+            if (contactId != null)
+            {
+                dbContext.Contacts.Remove(contactId);
+                await dbContext.SaveChangesAsync();
+            }
+
+
+            return Ok();
+        }
 
     }
 }
